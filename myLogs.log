@@ -1,0 +1,18 @@
+Dec 08, 2022 2:05:37 PM com.trantor.demo.base.Base initializeWebDriver
+INFO: Initializing driver ...
+Dec 08, 2022 2:05:53 PM com.trantor.demo.base.Base openUrl
+INFO: The URL is: https://opensource-demo.orangehrmlive.com/
+Dec 08, 2022 2:06:00 PM com.trantor.demo.base.Base sleepForMiliSecs
+SEVERE: Waiting for : 5000 ms
+Dec 08, 2022 2:06:05 PM com.trantor.demo.pageobject.LoginPage typeUsername
+INFO: Typing username: Admin
+Dec 08, 2022 2:06:05 PM com.trantor.demo.pageobject.LoginPage typePassword
+INFO: Typing password: admin123
+Dec 08, 2022 2:06:05 PM com.trantor.demo.pageobject.LoginPage clickLoginButton
+INFO: Clicking login button
+Dec 08, 2022 2:06:08 PM com.trantor.demo.base.Base sleepForMiliSecs
+SEVERE: Waiting for : 5000 ms
+Dec 08, 2022 2:06:13 PM com.trantor.demo.pageobject.DashboardPage verifyMyActionsHeader1
+INFO: Fetching 'My Action Header' text from UI
+Dec 08, 2022 2:06:14 PM com.trantor.demo.base.Base killDriver
+INFO: Destroying the web driver
